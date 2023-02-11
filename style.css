@@ -1,32 +1,8 @@
-
-body
-{
-    text-align: center;
-   
-}
 h1{
-    background-color: #682cbc;
-    margin:0;
-}
-img 
-{
-border: 10px;
-border-radius: 50px;
-border-color: rgb(43, 226, 67);
-border-style: dotted;
-padding: 20px;
-
-}
-a{
-   
+    text-align: center;
     text-decoration: underline;
-    text-decoration-color: chartreuse;
-   font-size: 40px;
-   margin-top: 50px;
+    text-decoration-color: rgb(170, 11, 184);
 }
-#section1
-{
-    background: linear-gradient(#60ebeb 0%, #682cbc 100%);
-   
-    bottom:0;
+body{
+    text-align: center;
 }
